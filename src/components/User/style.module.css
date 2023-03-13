@@ -1,0 +1,21 @@
+.card{
+  background-color: rgb(177, 177, 177);
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card img{
+  width: 115px;
+  height: 145px;
+  margin: 15px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.card p {
+  font-size: 25px;
+  font-weight: 600;
+}
